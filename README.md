@@ -38,7 +38,7 @@ This project is built using standard Python and requires the following external 
 
 ## Changelog
 
-### [July 3, 2026 - Unreleased]
+### [July 3, 2026]
 * Introduced quenched disorder via a site-vacancy impurity protocol (`pctg_impurities`).
 * Changed black-white color scheme to blue-red-black (black for impurities) for clear domiain wall tracking.
 * Updated `get_net_magnetization` calculation to dynamically filter out impurity sites, preventing baseline data skewing.
