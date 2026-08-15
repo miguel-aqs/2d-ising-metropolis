@@ -1,4 +1,4 @@
-# 2D Ising Model - Monte Carlo Simulation
+# 2D Ising Model - Metropolis Monte Carlo Simulation
 
 > First of all, it's technically pronounced "EE-zing" not "EYE-zing" but no one seems to care.
 
