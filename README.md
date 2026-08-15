@@ -2,6 +2,8 @@
 
 > First of all, it's technically pronounced "EE-zing" not "EYE-zing" but no one seems to care.
 
+* This is a two-part project! You can find Part II where I use a more efficient algorithm [here](https://github.com/miguel-aqs/2d-ising-wolff).
+
 This is a simple Monte Carlo Markov Chain simulation made with the intent to model magnets as a large grid of cells, each representing an atom's individual 'spin' or what can be thought of as magnetic charge.
 
 Each atom on the grid tends toward the action of least energy. At low temperatures, the energy of neighboring spins attempting to align dominates, forcing the lattice to rapidly minimize energy and snap into giant, highly ordered ferromagnetic domains. These will, granted a large enough grid and along enough time, all eventually align to either +1 or -1. 
@@ -60,9 +62,6 @@ This project is built using standard Python and requires the following external 
 
 * Credit to Revimime for compiling the research into molecular thermodynamics and ferromagnetism.
 * Credit to Mulletgoneviral for the rickrolls and slandering macbooks.
-
-## Part II
-* You can find Part II of this project where I use a more efficient algorithm [here](https://github.com/miguel-aqs/2d-ising-wolff).
 
 ## Learn More
 Read more about the physics [here](https://en.wikipedia.org/wiki/Ising_model).
