@@ -61,6 +61,9 @@ This project is built using standard Python and requires the following external 
 * Credit to Revimime for compiling the research into molecular thermodynamics and ferromagnetism.
 * Credit to Mulletgoneviral for the rickrolls and slandering macbooks.
 
+## Part II
+* You can find Part II of this project where I use a more efficient algorithm [here](https://github.com/miguel-aqs/2d-ising-wolff).
+
 ## Learn More
 Read more about the physics [here](https://en.wikipedia.org/wiki/Ising_model).
 Learn more about the math and the Hamiltonian [here](https://www.youtube.com/watch?v=BHHoTagq03A).
